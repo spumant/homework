@@ -18,6 +18,9 @@
 软件工程2141班邢淏喆 QQ：253383985
 个人博客：[Spumante](https://www.yuque.com/spumante)
 
+### Java版本作者
+软件工程2142班冀玉博 QQ：1479839568
+
 ## 免责声明
 
 本项目遵循[BSD 2-Clause "Simplified" License](https://opensource.org/license/bsd-2-clause/)开源协议
